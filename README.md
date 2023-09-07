@@ -1,2 +1,2 @@
 # Amazon_Clone
-This is my clone of Amazon using front end web development .
+Designed and implemented a responsive Amazon clone using HTML and CSS, demonstrating strong front-end web development skills. Created a visually appealing and user-friendly interface, closely emulating the design and layout of the Amazon website. Leveraged HTML for structuring the content and CSS for styling, ensuring pixel-perfect accuracy in replicating Amazon's appearance. This project showcased proficiency in web design, CSS flexbox, and responsive design principles. 
